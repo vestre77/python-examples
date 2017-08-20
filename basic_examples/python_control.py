@@ -37,4 +37,5 @@ print 'printing alternate numbers from 1 to 10'
 for i in range(1,11, 2):
   print i
 
-#Python also has the break and continue statements which work just like in Java
+#Kim Python also has the break and continue statements which work just like in Java
+#my comment
